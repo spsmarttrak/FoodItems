@@ -8,6 +8,8 @@ public class TestClass  {
 		DemoClass demoClass = new DemoClass();
 		
 		demoClass.greeting();
+		
+		System.out.println("child method has execute");
 
 	}
 
