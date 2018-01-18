@@ -9,7 +9,7 @@ public class TestClass  {
 		
 		demoClass.greeting();
 		
-		System.out.println("child method has executed");
+		System.out.println("child method has executedd");
 
 	}
 
